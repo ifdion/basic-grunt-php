@@ -31,7 +31,7 @@
 
 <body>
 	<div class="container">
-		<p class="lead">Hello World</p>
+		<p class="lead">Hello Big World</p>
 		<?php include_once('template/welcome.php') ?>
 	</div>
 </body>
